@@ -1,4 +1,3 @@
-
 [submodule "extensions/0-protan-prism-theme"]
 	path = extensions/0-protan-prism-theme
 	url = https://github.com/0rtbo/0-protan-prism-theme.git
